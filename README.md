@@ -9,8 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-(https://github-readme-stats.vercel.app/api?username=yya-yell&show_icons=true&theme=tokyonight)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 <p align="left">
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100016083194125" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100016083194125" height="30" width="40" /></a>
 </p>
