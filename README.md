@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Yell Yint Aung(PK)</h1>
+<h1 align="center">Hi 👋, I'm Ye Yint Aung(PK)</h1>
 <h3 align="center">Web Developer</h3>
 
 - 👨‍💻 All of my projects are available at [https://yya-yell.github.io/portfolio/](https://yya-yell.github.io/portfolio/)
 
-- 💬 Ask me about **Laravel , Vue**
+- 💬 Ask me about **PHP, Laravel , React , Node**
 
 - 📫 How to reach me **yellyint48@gmail.com**
 
